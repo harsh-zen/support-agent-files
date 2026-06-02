@@ -13,6 +13,20 @@ Auto-updated by n8n. Do not edit entries manually — add summaries in the secti
 ## Raw Entries
 
 ### 2026-06-02 | Ticket #11928 | Rating: 3/5
+**Subject:** cancellation identifier
+**Feedback:** can be better formated
+**Agent note:**
+> **ANALYSIS — Feature Request: Notification Customization**
+> **Ticket:** #11928 | **Requester:** harsh@appointy.com (submitted on behalf of Jonathan Harrod, Center Director, Mathnasium of Walnut — walnut@mathnasium.com) | **Priority:** Low
+> 
+> ---
+> 
+> **⚠️ DUPLICATE ALERT**
+> Ticket #11927 ("Cancellation Email Customization") is the **identical request** submitted at 02:20 UTC today (same message body, same sender — Jonathan Harrod). This ticket (#11928) was created via the internal portal by Harsh. **Recommend closing #11928 as a duplicate and working #11927 as the primary.** All notes below apply to #...
+
+---
+
+### 2026-06-02 | Ticket #11928 | Rating: 3/5
 **Subject:** Cancellation identifier
 **Feedback:** Can be better formatted
 **Agent note:**
