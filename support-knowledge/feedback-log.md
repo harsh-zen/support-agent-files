@@ -12,6 +12,23 @@ Auto-updated by n8n. Do not edit entries manually — add summaries in the secti
 
 ## Raw Entries
 
+### 2026-06-05 | Ticket #12000 | Rating: 1/5
+**Subject:** Issues with a student marked at Inactive
+**Feedback:** wouldn't send the email reply that Ai has drafted in the first instance, we would have to do our due dilligence first and check logs to see what is the info that we are receiving for the guardian's account
+**Agent note:**
+> ANALYSIS — Radius Sync / Student ID Mismatch — Inactive Student
+> 
+> Ticket: #12000 | Requester: rex.schoolcraft@mathnasiumrva.com (Regional Director, TUKA Region) | Priority: HIGH
+> 
+> Requester Type: Center owner / staff (Regional Director)
+> 
+> Routing: Appointy owns this — confirmed Radius-side data issue requiring Mathnasium Support investigation
+> 
+> SUMMARY
+> Rex reports that student Hannah Barki (guardian: Jamie Barki, center: Midtown Tulsa) is showing INACTIVE in Appointy but ACTIVE in Radius. He has also flagged that the Student ID in Appointy does not match the current Student ID in Radius — only the...
+
+---
+
 ### 2026-06-02 | Ticket #11928 | Rating: 3/5
 **Subject:** cancellation identifier
 **Feedback:** can be better formated
