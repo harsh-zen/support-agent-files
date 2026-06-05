@@ -12,6 +12,24 @@ Auto-updated by n8n. Do not edit entries manually — add summaries in the secti
 
 ## Raw Entries
 
+### 2026-06-05 | Ticket #11999 | Rating: 3/5
+**Subject:** Sessions
+**Feedback:** the AI answer asked for the name of the instructor that should have private sessions mapped to it, but it is very obvious upon reviewing the admin side since the name of the instructor is 'Private Session Instructor'
+**Agent note:**
+> ANALYSIS — Session Type Configuration / Instructor Routing (Private Session → Mega Instructor)
+> 
+> Ticket: #11999  |  Requester: shermanoaks@mathnasium.com (Daniel Weiss, Center Director – Sherman Oaks)  |  Priority: Medium
+> 
+> Requester Type: Center owner/staff  |  Routing: Appointy owns this ticket — service type configuration issue
+> 
+> NO-GO CHECK
+> Clean. No billing, legal, leadership, P0, or destructive action triggers.
+> 
+> SUMMARY
+> Daniel reports that when a private session is booked at Sherman Oaks, the appointment is being assigned to "Mega Instructor" instead of the specific private session instruct...
+
+---
+
 ### 2026-06-05 | Ticket #12000 | Rating: 1/5
 **Subject:** Issues with a student marked at Inactive
 **Feedback:** wouldn't send the email reply that Ai has drafted in the first instance, we would have to do our due dilligence first and check logs to see what is the info that we are receiving for the guardian's account
