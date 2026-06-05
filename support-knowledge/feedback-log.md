@@ -12,6 +12,23 @@ Auto-updated by n8n. Do not edit entries manually — add summaries in the secti
 
 ## Raw Entries
 
+### 2026-06-05 | Ticket #12010 | Rating: 0/5
+**Subject:** Rayan Varsani - Mathnasium of Glen Mills
+**Feedback:** The AI is saying that the student's enrollment is inactive in Appointy, but that is not the case. The entire answer is framed that way, thus making it incorrect.
+**Agent note:**
+> ANALYSIS
+> 
+> Category: Booking / Enrollment Inactive — 0 Sessions Remaining
+> 
+> Ticket: #12010 | Requester: matt.cleary@mathnasiumkcf.com (Matt Cleary, Regional Director — 6-center MCO)
+> 
+> Priority: HIGH — MCO requester; family actively blocked from booking
+> 
+> SUMMARY
+> Matt is reporting that the guardian for Rayna Varsani at Mathnasium of Glen Mills cannot book sessions — "something changed" since they were previously able to. Data lookup confirms the root cause: Rayna's enrollment is INACTIVE in Appointy with 0 maximum sessions and 0 remaining sessions. This is a Radius-side issue — the enrollment has l...
+
+---
+
 ### 2026-06-05 | Ticket #12009 | Rating: 3/5
 **Subject:** Summer Unlimited Students
 **Feedback:** This is a sync issue from Radius. The AI was able to identify that partly and recommended a few fixes from the Radius side such as edit and save
