@@ -12,6 +12,25 @@ Auto-updated by n8n. Do not edit entries manually — add summaries in the secti
 
 ## Raw Entries
 
+### 2026-06-10 | Ticket #12031 | Rating: NA
+**Subject:** Cynthia Tirado / Janelle Feliciano: Radius and Appointy not syncing
+**Feedback:** this was in continuation of another thread, so the AI doesnt have context
+**Agent note:**
+> ANALYSIS
+> 
+> Category: Radius Sync / Guardian + Student Not Populating in Appointy
+> 
+> Ticket: #12031 | Requester: winterpark@mathnasium.com (Sherri Searl, Center Director – Mathnasium of Winter Park)
+> 
+> Priority: Medium — single center, known resolution path, no booking currently possible for this guardian/student pair
+> 
+> Requester Type: Center owner/staff — direct Appointy support request, no misrouting
+> 
+> SUMMARY
+> This is a follow-up to Ticket #12022 ("Janelle Feliciano / Cynthia Tirado not populating in Appointy," filed 2026-06-08). In that original ticket, Sherri reported that a newly enrolled student...
+
+---
+
 ### 2026-06-05 | Ticket #12010 | Rating: 0/5
 **Subject:** Rayan Varsani - Mathnasium of Glen Mills
 **Feedback:** The AI is saying that the student's enrollment is inactive in Appointy, but that is not the case. The entire answer is framed that way, thus making it incorrect.
